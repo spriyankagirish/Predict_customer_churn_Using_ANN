@@ -59,7 +59,12 @@ Used a cleaned dataset containing:
 4. View prediction and probability score.
 
 ---
+## 🔗 ScreenShot
+![image](https://github.com/user-attachments/assets/6f8b1be3-994f-4292-b0a6-071ae7833013)
+![image](https://github.com/user-attachments/assets/e0c33f7b-5594-4d6b-ab04-61373c27eca5)
 
+
+---
 ## 🔗 Links
 
 - 🌐 [Live Demo on Hugging Face]https://huggingface.co/spaces/PriyankaSG/Predict_customer_churn_Using_ANN
