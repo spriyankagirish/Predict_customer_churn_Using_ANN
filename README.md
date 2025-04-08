@@ -22,7 +22,7 @@ This app uses an Artificial Neural Network (ANN) to predict customer churn for a
 - Interactive input form to simulate customer profiles
 - Predicts whether a customer will churn (`Yes` or `No`)
 - Displays confidence score of the prediction
-- Clean and responsive Gradio interface
+- Clean and responsive Streamlit interface
 
 ---
 
