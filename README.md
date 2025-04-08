@@ -1,11 +1,5 @@
 # 💼 Churn Modelling Using ANN
 
-🚀 **Live on Hugging Face Spaces**  
-Predict whether a customer will churn using an Artificial Neural Network (ANN) trained on structured banking data.  
-> 📍 [Check out the live demo here](https://huggingface.co/spaces/your-username/churn-ann-model)  
-*(Replace the link with your actual Hugging Face Space URL)*
-
----
 
 ## 🧠 About the Project
 
