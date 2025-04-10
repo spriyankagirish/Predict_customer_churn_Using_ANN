@@ -81,7 +81,7 @@ Once approved, you’ll receive a link to the dataset via Google Drive within 24
 
 *This ensures project security while keeping it fully reproducible.*
 
-In Your Code (Notebook or Script):
+
 
 # Dataset not included in the public repo
 
