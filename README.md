@@ -69,13 +69,13 @@ Used a cleaned dataset containing:
 
 - 🌐 [Live Demo on Hugging Face]https://huggingface.co/spaces/PriyankaSG/Predict_customer_churn_Using_ANN
 
- 
+ ---
 
 ### Note on Dataset Access
 
 To maintain data privacy and prevent misuse, the dataset used in this project is not uploaded directly to this repository.
 
-**If you're a recruiter or collaborator who would like to access the dataset**, please request access here: [Google Form link]https://drive.google.com/file/d/1AwQTlHnbOGjPHwE8ZwmbfmyhsOffdvII/view?usp=sharing
+**If you're a recruiter  who would like to access the dataset**, please request access here: https://drive.google.com/file/d/1AwQTlHnbOGjPHwE8ZwmbfmyhsOffdvII/view?usp=sharing
 
 Once approved, you’ll receive a link to the dataset via Google Drive within 24 hours.
 
@@ -84,6 +84,7 @@ Once approved, you’ll receive a link to the dataset via Google Drive within 24
 In Your Code (Notebook or Script):
 
 # Dataset not included in the public repo
+
 # Please request access using the link in the README to get the dataset
 
 
